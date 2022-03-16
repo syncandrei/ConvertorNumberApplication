@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\ConvertorApp.Tests\\ConvertorApp.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Contracts\\Convertor.API.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Contracts\\Convertor.API.Contracts.csproj",
+        "projectName": "Convertor.API.Contracts",
+        "projectPath": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Contracts\\Convertor.API.Contracts.csproj",
+        "packagesPath": "C:\\Users\\SyncAndrew\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SyncAndrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Services\\Convertor.API.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Services\\Convertor.API.Services.csproj",
+        "projectName": "Convertor.API.Services",
+        "projectPath": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Services\\Convertor.API.Services.csproj",
+        "packagesPath": "C:\\Users\\SyncAndrew\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SyncAndrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Contracts\\Convertor.API.Contracts.csproj": {
+                "projectPath": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Contracts\\Convertor.API.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\ConvertorApp.Tests\\ConvertorApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\ConvertorApp.Tests\\ConvertorApp.Tests.csproj",
+        "projectName": "ConvertorApp.Tests",
+        "projectPath": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\ConvertorApp.Tests\\ConvertorApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\SyncAndrew\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\ConvertorApp.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SyncAndrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Services\\Convertor.API.Services.csproj": {
+                "projectPath": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Services\\Convertor.API.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

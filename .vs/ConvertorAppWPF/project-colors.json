@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5d60dff-3c8b-4877-9cc2-96cc17064130": {
+      "ProjectGuid": "f5d60dff-3c8b-4877-9cc2-96cc17064130",
+      "DisplayName": "ConvertorAppWPF",
+      "ColorIndex": 0
+    },
+    "c8b96272-3e16-4aac-9082-c6b684d0cb31": {
+      "ProjectGuid": "c8b96272-3e16-4aac-9082-c6b684d0cb31",
+      "DisplayName": "ConvertorAppRestApi",
+      "ColorIndex": 1
+    },
+    "d21efc27-a2f5-422c-924a-f0b5d1269203": {
+      "ProjectGuid": "d21efc27-a2f5-422c-924a-f0b5d1269203",
+      "DisplayName": "ConvertorApp.Contracts",
+      "ColorIndex": 2
+    },
+    "5b38c3fb-ec92-4f65-9c68-ca39c5d2d149": {
+      "ProjectGuid": "5b38c3fb-ec92-4f65-9c68-ca39c5d2d149",
+      "DisplayName": "ConvertorApp.Services",
+      "ColorIndex": 3
+    },
+    "abe56c29-f9ec-4d62-a345-364c45ad4f49": {
+      "ProjectGuid": "abe56c29-f9ec-4d62-a345-364c45ad4f49",
+      "DisplayName": "ConvertorApp.API.Services",
+      "ColorIndex": 4
+    },
+    "69771208-0441-49b7-9835-1b9221d1f4e4": {
+      "ProjectGuid": "69771208-0441-49b7-9835-1b9221d1f4e4",
+      "DisplayName": "ConvertorApp.API.Contracts",
+      "ColorIndex": 5
+    },
+    "be296619-9b44-4aa6-bb53-c7d59f19ba18": {
+      "ProjectGuid": "be296619-9b44-4aa6-bb53-c7d59f19ba18",
+      "DisplayName": "Convertor.API.Contracts",
+      "ColorIndex": 6
+    },
+    "1476fb42-8c60-401f-a7d6-ce8441541c0a": {
+      "ProjectGuid": "1476fb42-8c60-401f-a7d6-ce8441541c0a",
+      "DisplayName": "Convertor.API.Services",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c7f7c216-6708-48f5-8bf6-b6db7d20f517": {
+      "ProjectGuid": "c7f7c216-6708-48f5-8bf6-b6db7d20f517",
+      "DisplayName": "ConvertorApp.Tests",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QqANcOZ7ShGS2CRYNzPBvVqewQxafLr4vg7zSZSP+EDAPbLEBbbSlUWbr1mS4MHlSbpxTrtO1hPP1mAeZUNiyw==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Programming\\Git\\ConvertorAppWPF\\ConvertorAppWPF\\Convertor.API.Services\\Convertor.API.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SyncAndrew\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
